@@ -1,0 +1,35 @@
+commit 24d23be6766ae189df9bdd342dccda6f2dbed2f5
+Author: Charly <charly240894@gmail.com>
+Date:   Tue Oct 4 11:48:07 2016 -0600
+
+    Comandos agregados a la tabla
+
+commit b1b4a4cef12b6805a3a7638679d188b46132142b
+Author: Charly <charly240894@gmail.com>
+Date:   Tue Oct 4 11:37:16 2016 -0600
+
+    Se agregó footer
+
+commit 07b3d5439ae986c5356baf320019710a09d4fa7e
+Author: Charly <charly240894@gmail.com>
+Date:   Tue Oct 4 11:35:09 2016 -0600
+
+    Se agregó favicon de git
+
+commit 079d8d7acb7ebf49a72bb898ba5b5a783e522937
+Author: Charly <charly240894@gmail.com>
+Date:   Tue Oct 4 11:28:42 2016 -0600
+
+    Tabla de comandos
+
+commit f925c47d34714c10118e904b506472dc9bb09483
+Author: Charly <charly240894@gmail.com>
+Date:   Mon Oct 3 11:52:34 2016 -0600
+
+    Encabezado e Integracion
+
+commit f263b5b52434257b6d6baec7fef9c4a93697715b
+Author: Charly <charly240894@gmail.com>
+Date:   Mon Oct 3 11:47:30 2016 -0600
+
+    Estructura inicial
